@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Chanponleusopheaho
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Robotics and Automation Engineering 
+- 🌱 I’m currently learning Data science and AI Engineering 
